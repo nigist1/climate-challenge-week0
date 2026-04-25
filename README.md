@@ -1,3 +1,5 @@
+\# Updated README
+
 \# Climate Challenge Week 0
 
 
@@ -29,6 +31,4 @@ myenv\\Scripts\\activate
 3\. Install dependencies
 
 pip install -r requirements.txt
-
-
 
